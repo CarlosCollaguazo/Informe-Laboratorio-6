@@ -51,7 +51,7 @@ Si se cumple ya que al llegar a la RL aproximada al valor de la resistencia inte
 
 Grafique la curva Potencia vs RL y comente.
 
-![image](https://user-images.githubusercontent.com/105675868/179265616-e76bcac3-956d-4c3f-89db-f317b7791a84.png)
+![image](https://user-images.githubusercontent.com/105675868/179267860-9a7be2bf-fddb-4535-a08b-afc1c07ef51d.png)
 
 En la gráfica se observa como la potencia va incrementando hasta llegar a su máxima tranferencia de potencia en la RL = 1500Ω y despues empieza a reducir la potencia ya que se aleja a la Rs que es de 1200Ω.
 
