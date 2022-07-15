@@ -23,6 +23,10 @@ NRC: 7310
 
 # Resolución del Problema
 
+![Opportunity Solution Tree (14)](https://user-images.githubusercontent.com/105715717/179273122-7adf821e-711e-41ea-acf0-aa01cd4c75a2.jpg)
+
+![Opportunity Solution Tree (15)](https://user-images.githubusercontent.com/105715717/179273099-f02418b0-33d6-4192-a2d1-59f57d42cd89.jpg)
+
 Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote
 los resultados en la tabla
 
