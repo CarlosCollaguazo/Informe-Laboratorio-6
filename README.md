@@ -21,6 +21,9 @@ NRC: 7310
 
 # Marco Teórico
 
+![image](https://user-images.githubusercontent.com/105691698/179282966-977db073-8a49-45f8-850b-059d028fcb06.png)
+
+
 # Resolución del Problema
 
 ![Opportunity Solution Tree (14)](https://user-images.githubusercontent.com/105715717/179273122-7adf821e-711e-41ea-acf0-aa01cd4c75a2.jpg)
