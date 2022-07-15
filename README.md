@@ -77,6 +77,22 @@ https://www.youtube.com/watch?v=YSbYpSf2MW8
 
 # Bibliografía
 
+la fisica y quimica. (15 de Julio de 2022). la fisica y quimica. Obtenido de la fisica y quimica:
+
+https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+
+Uniandes. (14 de Julio de 2022). Uniandes. Obtenido de Uniandes: 
+
+http://wwwprof.uniandes.edu.co/~ant-
+
+sala/cursos/FDC/Contenidos/06_Thevenin_Norton_Maxima_Transferencia_de_Potencia.pdf
+
+wikipedia. (14 de Julio de 2022). wikipedia. Obtenido de wikipedia: 
+
+https://es.wikipedia.org/wiki/Teorema_de_máxima_potencia#:~:text=En%20ingenierí
+
+a%20eléctrica%2C%20electricidad%20y,a%20la%20resistencia%20de%20fuente.
+
 * AREATECNOLOGIA. (8 de Julio de 2022). AREATECNOLOGIA. Obtenido de AREATECNOLOGIA:
 
 https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-
