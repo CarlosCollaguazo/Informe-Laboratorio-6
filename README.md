@@ -46,7 +46,7 @@ los resultados en la tabla
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.
 
-No se cumple ya que al llegar a la RL aproximada al valor de la resistencia interna de la fuente se llegó a la transferencia máxima de potencia en este caso como la resistencia interna es 1200Ω y la resistencia de carga es de 1500Ω por lo que se cumplió el teorema solo en en esta resistencia.
+No se cumple ya que todas las RL se deben aproximar al valor de la resistencia interna de la fuente y esto no sucede.
 
 ¿Cuál fue la potencia máxima en RL? 
 
