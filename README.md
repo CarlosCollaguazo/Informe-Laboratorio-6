@@ -36,6 +36,9 @@ los resultados en la tabla
 
 # Respuesta a Interrogantes
 
+![image](https://user-images.githubusercontent.com/105715717/179268243-3cf44f5f-0cb0-45fc-ad72-57e26a095448.png)
+
+
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.
 
@@ -56,6 +59,8 @@ Grafique la curva Potencia vs RL y comente.
 En la gráfica se observa como la potencia va incrementando hasta llegar a su máxima tranferencia de potencia en la RL = 1500Ω y despues empieza a reducir la potencia ya que se aleja a la Rs que es de 1200Ω.
 
 # Video
+
+https://www.youtube.com/watch?v=YSbYpSf2MW8
 
 # Conclusiones
 
