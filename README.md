@@ -53,7 +53,7 @@ No se cumple ya que todas las RL se deben aproximar al valor de la resistencia i
 
 ¿Cuál fue la potencia máxima en RL? 
 
-0.5 Watts
+0.05 Watts
 
 ¿Para qué valor de RL se obtiene la MTP?
 
